@@ -78,6 +78,12 @@ html, body {
     margin-bottom: 40px;
 }
 
+.city:hover > .city_name,
+.city:focus > .city_name,
+.city:active > .city_name{
+    background: #1a9cb0;
+}
+
 .city_image {
     width: 100%;
     max-height: 245px;
