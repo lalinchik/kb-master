@@ -100,6 +100,13 @@ html, body {
     text-transform: uppercase;
 }
 
+.city_name h3 {
+    font-weight: 700;
+    color: #fff;
+    line-height: 70px;
+    text-transform: uppercase;
+}
+
 .footer_block {
     height: 125px;
     padding: 0 50px;
